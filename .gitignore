@@ -1,0 +1,11 @@
+*.exe
+*.vs
+*.filters
+*.user
+*.pdb
+*.ilk
+
+.vscode
+*.json
+x64
+out
