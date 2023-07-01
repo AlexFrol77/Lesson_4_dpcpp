@@ -6,6 +6,5 @@
 *.ilk
 
 .vscode
-*.json
 x64
 out
